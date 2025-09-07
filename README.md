@@ -4,6 +4,8 @@
 This project automates the process of collecting job postings from **Glassdoor** using **Selenium**.  
 It extracts job-level and company-level details into a structured CSV file, making it easier to analyze job market trends such as skills in demand, salary ranges, and industry breakdowns.
 
+<img src="https://imgur.com/baJN98s.png" alt="homepage" width="600"/>
+
 ---
 
 ## 🔍 Features
