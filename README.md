@@ -49,6 +49,21 @@ It extracts job-level and company-level details into a structured CSV file, maki
 
 ## Output
 <img src="https://imgur.com/r92kJKi.png" alt="Output" width="600"/>
+
+## ⚠️ Limitations
+- Glassdoor often changes its HTML structure, so XPaths may need updating.
+- Frequent scraping may trigger rate limits or CAPTCHAs.
+- Results depend on keyword and region availability.
+
+## 📈 Future Improvements
+- Add support for location-based searches (e.g. “Data Analyst in San Francisco”).
+- Save job postings into a database (SQLite or PostgreSQL) instead of CSV.
+- Add visualization/analysis of scraped results directly in the notebook.
+- Dockerize the scraper for easier setup.
+
+## ✍️ Author
+Rohan Benjamin
+
    
 
 
