@@ -44,7 +44,7 @@ It extracts job-level and company-level details into a structured CSV file, maki
    fetch_jobs("Data Scientist", 5)
 6. The scraper will output a CSV file:
    ```bash
-   Data Analyst.csv
+   Data Scientist.csv
 
 
 ## Output
