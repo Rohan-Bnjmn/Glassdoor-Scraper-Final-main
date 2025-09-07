@@ -41,10 +41,15 @@ It extracts job-level and company-level details into a structured CSV file, maki
    python glassdoor_scraper.py
 5. Call the function with a keyword and number of pages:
    ```bash
-   fetch_jobs("Data Analyst", 5)
+   fetch_jobs("Data Scientist", 5)
 6. The scraper will output a CSV file:
    ```bash
    Data Analyst.csv
+
+
+## Output
+<img src="https://imgur.com/r92kJKi.png" alt="Output" width="600"/>
+   
 
 
 
